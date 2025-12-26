@@ -13,7 +13,7 @@ This project demonstrates a **Retrieval-Augmented Generation (RAG) piepline** bu
 -Vector Database
 -LLM API (replace API key before running)
 
-##Learning Outcome
+## Learning Outcome
 -Understanding of RAG piepline from ingestion to response.
 -Integration of embeddings with LLMs.
 -Contextual question answering
